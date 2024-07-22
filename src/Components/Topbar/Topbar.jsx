@@ -24,6 +24,7 @@ const Topbar = () => {
             <SettingsIcon />
           </div>
           <img src={Image} alt="" className="topAvatar" />
+          <h1>hello admin</h1>
         </div>
       </div>
     </div>
